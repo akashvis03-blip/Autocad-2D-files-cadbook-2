@@ -18,6 +18,18 @@ DWG file: Drawing32.dwg
 
 DWG file: Drawing28.dwg
 
+# Drawing 8
+
+![Preview](Drawing8.png)
+
+DWG file: Drawing8.dwg
+
+# Drawing 20
+
+![Preview](Drawing20.png)
+
+DWG file: Drawing20.dwg
+
 # Drawing 22
 
 ![Preview](Drawing22.png)
